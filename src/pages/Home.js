@@ -8,7 +8,7 @@ function Home() {
 	return (
 		<div>
 			<img
-				src={`${process.env.PUBLIC_URL}/../../assets/img/1.jpg`}
+				src={`${process.env.PUBLIC_URL}/assets/img/1.jpg`}
 				alt='React'
 				style={imagestyle}></img>
 		</div>
